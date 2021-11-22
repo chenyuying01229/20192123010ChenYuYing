@@ -10,6 +10,7 @@
 学而不思则罔，思而不学则殆。
 
 在课堂上看老师操作的时候感觉自己明白了，自己注册了账号却没那么容易，有种举步维艰的感觉，我在第一步注册的过程中就遇到了问题，注册完登录不上去，组内寻求帮助后发现是我的邮箱有问题，我重新换了一个邮箱注册后进入了个人主页，开通了博客。组内讨论了数据库的结构，分配了任务，每个人负责自己的板块一起完成用例图以及用例说明，最后做了总结，写下了word文档，组内每个人都必不可少，每个人都负责的做自己的板块。
+
 You can use the [editor on GitHub](https://github.com/chenyuying01229/20192123010ChenYuYing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
