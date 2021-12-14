@@ -11,31 +11,23 @@
 
 在课堂上看老师操作的时候感觉自己明白了，自己注册了账号却没那么容易，有种举步维艰的感觉，我在第一步注册的过程中就遇到了问题，注册完登录不上去，组内寻求帮助后发现是我的邮箱有问题，我重新换了一个邮箱注册后进入了个人主页，开通了博客。组内讨论了数据库的结构，分配了任务，每个人负责自己的板块一起完成用例图以及用例说明，最后做了总结，写下了word文档，组内每个人都必不可少，每个人都负责的做自己的板块。
 
+
+
+
+
+
+2021年12月12日，再一次打开GitHub，这次分别建立了顺序图和通信图，明显比上次更加熟练了、
+
+我们的顺序图和通信图有三个功能：仓库代码托管功能；版本管理功能；代码查找功能。
+
+这次更加熟练地使用了staruml画图，更加熟悉了GitHub的功能和使用方法。
+
 You can use the [editor on GitHub](https://github.com/chenyuying01229/20192123010ChenYuYing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
